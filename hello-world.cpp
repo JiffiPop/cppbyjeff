@@ -1,8 +1,8 @@
- #include <iostream>
+#include <iostream>
 using namespace std;
 
-int main() // C++ programs start by executing the function main
+int main()
 {
-    std::cout << "Hello, World!\n"; // output “Hello, World!”
+    std::cout << "Hello world!";
     return 0;
 }
